@@ -1,5 +1,6 @@
 The goal is to be the first player to win all 54 cards. 
 The deck is divided evenly, with each player receiving 27 cards, dealt one at a time, face down. 
+Face down is not important, this is a computer game they never have to even see the dealing
 Cards are ranked (2-10,J,Q,K,A,Jokers) from lowest to highest left to right.
 If at any point in the game a player does not posses enough cards to continue:
    They lose.
@@ -46,10 +47,12 @@ If one player has no cards to be played:
 (2-10,J,Q,K,A,Jokers) Ranked from lowest to highest left to right.
 If both players run out of cards without a winner being declared:
   Play again.
+  is this even possible in war
 Otherwise continue the game as usual.
 If a player can't supply enoguh cards to continue the game:
   They lose.
 The player with the higher card takes all cards, and so on. 
 The game ends when one player has won all the cards.
 Remember to have fun!
+There is no fun in comp sci, please fix
 
